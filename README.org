@@ -1,0 +1,5 @@
+* Wordpress Plugin Tests Skeleton
+  This repository provides a skeleton wordpress plugin with
+  PHPUnit tests and Travis-CI integration.
+
+  To get started, copy the relevant files from here into your plugin.
