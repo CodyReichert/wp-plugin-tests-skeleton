@@ -3,3 +3,6 @@
   PHPUnit tests and Travis-CI integration.
 
   To get started, copy the relevant files from here into your plugin.
+
+*** This build
+    [[https://travis-ci.org/CodyReichert/wp-plugin-tests-skeleton.svg?branch=master]] 
